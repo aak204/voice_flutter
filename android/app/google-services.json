@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327913307582",
+    "project_id": "assistant-45a5b",
+    "storage_bucket": "assistant-45a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327913307582:android:11262418c3069f85aa0def",
+        "android_client_info": {
+          "package_name": "com.example.voice_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIEyln5UPRaugMwhvSliWEjR2qprTasY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
